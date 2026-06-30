@@ -1,0 +1,10 @@
+/app/src/main/java/com/example/baozistore/BaoziStoreApplication.java
+/app/src/main/java/com/example/baozistore/controller/ClienteController.java
+/app/src/main/java/com/example/baozistore/controller/PedidoController.java
+/app/src/main/java/com/example/baozistore/controller/ProdutoController.java
+/app/src/main/java/com/example/baozistore/model/Cliente.java
+/app/src/main/java/com/example/baozistore/model/Pedido.java
+/app/src/main/java/com/example/baozistore/model/Produto.java
+/app/src/main/java/com/example/baozistore/repository/ClienteRepository.java
+/app/src/main/java/com/example/baozistore/repository/PedidoRepository.java
+/app/src/main/java/com/example/baozistore/repository/ProdutoRepository.java
